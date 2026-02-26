@@ -1,0 +1,28 @@
+h2
+{
+    color: red;
+    font-size: 30px;
+}
+.standout
+{
+
+    color: brown;
+}
+.image1
+{
+    border-radius: 50%;
+}
+.image2
+{
+    border-radius: 30px;
+}
+.image3
+{
+    opacity: 0.1;
+}
+.image4{
+    filter: grayscale(o.5);
+}
+.image5{
+    filter:blur(10px)
+}
